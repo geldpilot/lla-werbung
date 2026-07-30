@@ -1,7 +1,7 @@
 {
   "aktiv": true,
-  "typ": "bild",
-  "media_url": "https://raw.githubusercontent.com/geldpilot/lla-werbung/refs/heads/main/profil_face.png",
-  "klick_url": "http://bikini-kaufen.eu/",
+  "typ": "youtube",
+  "media_url": "https://www.youtube.com/watch?v=tLBQe3TOJ0c",
+  "klick_url": "http://www.bitcoins-kaufen.eu/",
   "beschreibung": "Hier steht Ihr Werbetext."
 }
