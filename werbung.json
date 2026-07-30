@@ -1,8 +1,7 @@
 {
   "aktiv": true,
   "typ": "bild",
-  "media_url": "https://via.placeholder.com/600x300.png?text=Ihre+Werbung+hier",
-  "klick_url": "https://www.ihre-webseite.de",
-  "titel": "Willkommen!",
+  "media_url": "https://raw.githubusercontent.com/geldpilot/lla-werbung/refs/heads/main/profil_face.png",
+  "klick_url": "http://bikini-kaufen.eu/",
   "beschreibung": "Hier steht Ihr Werbetext."
 }
