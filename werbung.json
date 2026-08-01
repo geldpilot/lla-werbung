@@ -1,8 +1,8 @@
 {
   "aktiv": true,
-  "typ": "bild",
+  "typ": "youtube",
   "aspect_ratio": "",
-  "media_url": "https://raw.githubusercontent.com/geldpilot/lla-werbung/refs/heads/main/bilder/1.bild_b0.png",
+  "media_url": "https://www.youtube.com/watch?v=fkD49W_C03k",
   "klick_url": "http://www.bitcoins-kaufen.eu/",
   "kauf_url": "http://www.bikini-kaufen.eu/",
   "beschreibung": "Teste"
