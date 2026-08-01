@@ -1,9 +1,9 @@
 {
   "aktiv": true,
-  "typ": "bild",
+  "typ": "gif",
   "aspect_ratio": "",
-  "media_url": "https://raw.githubusercontent.com/geldpilot/lla-werbung/refs/heads/main/bilder/1.bild_b0.png",
+  "media_url": "https://raw.githubusercontent.com/geldpilot/lla-werbung/refs/heads/main/gifs/giphy.gif",
   "klick_url": "http://www.bitcoins-kaufen.eu/",
   "kauf_url": "http://www.bikini-kaufen.eu/",
-  "beschreibung": "Teste"
+  "beschreibung": ""
 }
